@@ -19,6 +19,7 @@ fun CaixaDeTexto(
         value = estado,
         onValueChange = {
             aoDigitar(it)
+            aoDigitar(it)
 
         },
         label = {
